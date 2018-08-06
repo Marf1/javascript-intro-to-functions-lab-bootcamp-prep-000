@@ -14,7 +14,7 @@ var lowercase = 'hello!'
  
 lowercase.toLowerCase() === lowercase
 
-if ( === "hungry") {
+if (string === "") {
  console.log("Refilling food bowl.")
 } else {
  console.log("Reading newspaper.")
